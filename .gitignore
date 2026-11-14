@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Operating system files
+.DS_Store
+Thumbs.db
